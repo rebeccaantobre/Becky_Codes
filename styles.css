@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;700&display=swap');
+
+body {
+    background: linear-gradient(to right, #6a0dad, #8b5cf6);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+    color: #ffccff;
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid #ffccff;
+    margin: 15px 0;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+.message {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.8;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.name {
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+    color: #ffccff;
+}
+
+.signature {
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    color: #ffccff;
+}
